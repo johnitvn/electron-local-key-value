@@ -9,7 +9,8 @@
 
  This package can use both main process and renderer process
 
-`
+```
+
 const Store = require('../Store');
 const storage = new Store({
     filename: 'app-config',
@@ -26,4 +27,4 @@ console.log(storage.get('KEY_NOT_FOUND'));
 
 store.commit(); // Save to file
 
-`
+```
