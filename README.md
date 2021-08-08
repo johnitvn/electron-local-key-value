@@ -11,7 +11,7 @@
 
 ```
 
-const Store = require('../Store');
+const Store = require('electron-local-key-value');
 const storage = new Store({
     filename: 'app-config',
     default: {}
