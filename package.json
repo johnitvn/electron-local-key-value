@@ -1,0 +1,26 @@
+{
+    "name": "electron-local-key-value",
+    "version": "1.0.0",
+    "description": "Local Store Key Value For Electron",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/johnitvn/electron-local-key-value.git"
+    },
+    "author": "John Martin <john.itvn@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/johnitvn/electron-local-key-value/issues"
+    },
+    "homepage": "https://github.com/johnitvn/electron-local-key-value#readme",
+    "keywords": [
+        "store",
+        "config",
+        "local",
+        "store",
+        "config"
+    ]
+}
