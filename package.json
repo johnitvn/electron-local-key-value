@@ -1,6 +1,6 @@
 {
     "name": "electron-local-key-value",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Local Store Key Value For Electron",
     "main": "index.js",
     "scripts": {
